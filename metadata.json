@@ -1,0 +1,6 @@
+{
+  "name": "CampusTrack – Smart Academic Management System",
+  "description": "Comprehensive College Academic Management & Student Tracking platform featuring period-by-period attendance, QR verification, timetable scheduling, fee payments & receipts, examination results, AI assistant, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
